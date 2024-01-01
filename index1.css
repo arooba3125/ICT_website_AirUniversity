@@ -1,0 +1,225 @@
+.text {
+  position: absolute;
+  top: 236px;
+  left: 735px;
+  font-size: 12px;
+}
+.campus-news,
+.stories-about-people {
+  position: absolute;
+  top: 58px;
+  left: 464px;
+  font-size: 64px;
+  font-weight: 800;
+  display: inline-block;
+  width: 468px;
+  height: 84px;
+}
+.stories-about-people {
+  top: 142px;
+  left: 253px;
+  font-size: 30px;
+  font-weight: 500;
+  width: 964px;
+  height: 30px;
+}
+.hafsa-child,
+.hafsa-item {
+  position: absolute;
+  top: 225px;
+  left: 114px;
+  background-color: var(--color-gainsboro);
+  width: 584px;
+  height: 297px;
+}
+.hafsa-item {
+  top: 226px;
+  left: 720px;
+  width: 304px;
+  height: 336px;
+}
+.hafsa-child1,
+.hafsa-inner,
+.rectangle-icon {
+  position: absolute;
+  top: 225px;
+  left: 1061px;
+  width: 321px;
+  height: 232px;
+  object-fit: cover;
+}
+.hafsa-child1,
+.rectangle-icon {
+  top: 598px;
+  left: 114px;
+  width: 285px;
+  height: 305px;
+}
+.hafsa-child1 {
+  left: 422px;
+  width: 313px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 671px;
+  left: 774px;
+  background-color: var(--color-gainsboro);
+  width: 589px;
+  height: 307px;
+}
+.hafsa-child2 {
+  position: absolute;
+  top: 1200px;
+  left: 534px;
+  background-color: #af3939;
+  width: 450px;
+  height: 97px;
+}
+.more-campus-news {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1233px;
+  left: 599px;
+  font-size: var(--font-size-13xl);
+  font-weight: 700;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 350px;
+  height: 59px;
+}
+.image-1-icon,
+.image-2-icon,
+.image-3-icon {
+  position: absolute;
+  top: 612px;
+  left: 759px;
+  width: 623px;
+  height: 439px;
+  object-fit: cover;
+}
+.image-2-icon,
+.image-3-icon {
+  top: 225px;
+  left: 720px;
+  width: 304px;
+  height: 232px;
+}
+.image-3-icon {
+  left: 114px;
+  width: 584px;
+  height: 337px;
+}
+.air-university-building-the {
+  top: 949px;
+  left: 774px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-snow);
+  width: 589px;
+  height: 102px;
+}
+.aim,
+.air-university-building-the,
+.air-university-building-the1 {
+  position: absolute;
+  font-weight: 800;
+  display: inline-block;
+}
+.air-university-building-the1 {
+  top: 475px;
+  left: 131px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-snow);
+  width: 589px;
+  height: 102px;
+}
+.aim {
+  top: 903px;
+  left: 920px;
+  color: var(--color-white);
+  width: 208px;
+  height: 46px;
+}
+.hafsa-child3,
+.hafsa-child4 {
+  position: absolute;
+  top: 903px;
+  left: 111px;
+  background-color: var(--color-gainsboro);
+  width: 288px;
+  height: 148px;
+}
+.hafsa-child4 {
+  top: 901px;
+  left: 421px;
+  width: 314px;
+  height: 155px;
+}
+.air-universitys-new,
+.au-graduates-are {
+  position: absolute;
+  top: 917px;
+  left: 125px;
+  font-weight: 800;
+  display: inline-block;
+  width: 297px;
+  height: 63px;
+}
+.air-universitys-new {
+  left: 437px;
+  white-space: pre-wrap;
+}
+.hafsa-child5 {
+  position: absolute;
+  top: 457px;
+  left: 1067px;
+  background-color: var(--color-gainsboro);
+  width: 315px;
+  height: 105px;
+}
+.cs-and-it {
+  font-weight: 800;
+}
+.cs-and-it-department {
+  margin: 0;
+}
+.islamabad-multan {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 800;
+}
+.cs-and-it-container {
+  position: absolute;
+  top: 465px;
+  left: 720px;
+  display: inline-block;
+  width: 304px;
+  height: 97px;
+}
+.providing-all-the {
+  margin: 0;
+  font-weight: 800;
+}
+.multan-campus-providing-container {
+  position: absolute;
+  top: 461px;
+  left: 1083px;
+  display: inline-block;
+  width: 304px;
+  height: 97px;
+}
+.hafsa {
+  position: relative;
+  background-color: #cde5fc;
+  width: 100%;
+  height: 1493px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

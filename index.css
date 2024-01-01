@@ -1,0 +1,250 @@
+.academics,
+.preparing-students-to {
+  margin: 0;
+  position: absolute;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+}
+.academics {
+  top: 46px;
+  left: 528px;
+  font-size: 64px;
+  text-align: left;
+  width: 384px;
+  height: 86px;
+  mix-blend-mode: normal;
+}
+.preparing-students-to {
+  top: 132px;
+  left: 334px;
+  font-size: var(--font-size-xl);
+  width: 775px;
+  height: 58px;
+}
+.desktop-1-child {
+  position: absolute;
+  top: 287px;
+  left: 127px;
+  background-color: #d9d9d9;
+  width: 358px;
+  height: 257px;
+}
+.desktop-1-inner,
+.desktop-1-item,
+.image-1-icon {
+  position: absolute;
+  top: 287px;
+  left: 1009px;
+  width: 358px;
+  height: 257px;
+  object-fit: cover;
+}
+.desktop-1-inner,
+.image-1-icon {
+  left: 554px;
+}
+.image-1-icon {
+  left: 127px;
+}
+.undergraduate-education1 {
+  font-weight: 800;
+}
+.undergraduate-education {
+  display: block;
+}
+.rich-learning-experiences {
+  font-weight: 500;
+}
+.rich-learning-experiences-that {
+  display: block;
+  font-size: var(--font-size-xl);
+}
+.undergraduate-education-rich-container {
+  margin: 0;
+  position: absolute;
+  top: 557px;
+  left: 126px;
+  display: inline-block;
+  width: 359px;
+  height: 154px;
+}
+.undergraduate-education-contin-container,
+.undergraduate-education-unsurp-container {
+  margin: 0;
+  position: absolute;
+  top: 557px;
+  left: 1001px;
+  display: inline-block;
+  width: 359px;
+  height: 154px;
+}
+.undergraduate-education-unsurp-container {
+  left: 527px;
+}
+.seven-schools-in {
+  margin: 0;
+}
+.seven-schools-in-container {
+  margin: 0;
+  position: absolute;
+  top: 774px;
+  left: 347px;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+  width: 741px;
+  height: 61px;
+}
+.medicine {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  left: 284px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: center;
+  width: 170px;
+  height: 32px;
+}
+.business,
+.education,
+.medicine {
+  position: absolute;
+  top: 887px;
+  font-weight: 800;
+  display: inline-block;
+}
+.business {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  left: 1070px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: center;
+  width: 170px;
+  height: 32px;
+}
+.education {
+  left: 925px;
+}
+.education,
+.engineering,
+.humanities {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: center;
+  width: 170px;
+  height: 32px;
+}
+.engineering {
+  position: absolute;
+  top: 887px;
+  left: 755px;
+  font-weight: 800;
+  display: inline-block;
+}
+.humanities {
+  left: 564px;
+}
+.div,
+.div1,
+.div2,
+.div3,
+.div4,
+.humanities,
+.law {
+  position: absolute;
+  top: 887px;
+  font-weight: 800;
+  display: inline-block;
+}
+.law {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  left: 412px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: center;
+  width: 170px;
+  height: 32px;
+}
+.div,
+.div1,
+.div2,
+.div3,
+.div4 {
+  left: 434px;
+  width: 23px;
+  height: 57px;
+}
+.div1,
+.div2,
+.div3,
+.div4 {
+  top: 886px;
+  left: 1072px;
+}
+.div2,
+.div3,
+.div4 {
+  left: 918px;
+}
+.div3,
+.div4 {
+  top: 887px;
+  left: 727px;
+}
+.div4 {
+  left: 541px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 984px;
+  left: 536px;
+  background-color: #b62121;
+  width: 405px;
+  height: 81px;
+}
+.desktop-1,
+.more-about-academics {
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-inter);
+}
+.more-about-academics {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1004px;
+  left: 539px;
+  font-weight: 800;
+  color: #fff;
+  display: inline-block;
+  width: 399px;
+  height: 61px;
+}
+.desktop-1 {
+  position: relative;
+  background-color: #cde5fc;
+  width: 100%;
+  height: 1213px;
+  overflow: hidden;
+  color: var(--color-black);
+}

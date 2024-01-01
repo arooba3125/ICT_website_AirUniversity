@@ -1,0 +1,200 @@
+.upcoming-events {
+  margin: 0;
+  position: absolute;
+  top: 98px;
+  left: calc(50% - 255px);
+  font-size: var(--font-size-45xl);
+  font-weight: 700;
+  font-family: inherit;
+  color: var(--color-black);
+  display: inline-block;
+  width: 509px;
+}
+.air-university-1,
+.image-1-icon,
+.picture-01-1 {
+  position: absolute;
+  top: 338px;
+  left: 88px;
+  width: 377px;
+  height: 534px;
+  object-fit: cover;
+}
+.air-university-1,
+.image-1-icon {
+  left: 577px;
+  width: 354px;
+}
+.image-1-icon {
+  left: 1028px;
+  width: 331px;
+}
+.desktop-1-child {
+  position: absolute;
+  top: 869px;
+  left: 89px;
+  background-color: #fff3f3;
+  width: 376px;
+  height: 248px;
+}
+.desktop-1-inner,
+.desktop-1-item,
+.rectangle-div {
+  position: absolute;
+  top: 869px;
+  left: 579px;
+  background-color: #f8eeee;
+  width: 352px;
+  height: 248px;
+}
+.desktop-1-inner,
+.rectangle-div {
+  left: 1030px;
+  background-color: #fff8f8;
+  width: 329px;
+}
+.rectangle-div {
+  top: 819px;
+  left: 149px;
+  background-color: #521e1e;
+  width: 127px;
+  height: 96px;
+}
+.desktop-1-child1,
+.desktop-1-child2 {
+  position: absolute;
+  top: 828px;
+  left: 633px;
+  background-color: #732b2b;
+  width: 122px;
+  height: 91px;
+}
+.desktop-1-child2 {
+  left: 1099px;
+  background-color: #581414;
+  width: 131px;
+  height: 87px;
+}
+.rd-june,
+.th-aug,
+.th-july {
+  position: absolute;
+  top: 836px;
+  left: 167px;
+  display: inline-block;
+  width: 88px;
+  height: 64px;
+}
+.th-aug,
+.th-july {
+  top: 839px;
+  left: 1115px;
+  width: 99px;
+  height: 56px;
+}
+.th-july {
+  left: 638px;
+  width: 106px;
+  height: 59px;
+}
+.am,
+.seminar-conducting {
+  margin: 0;
+}
+.am {
+  font-size: var(--font-size-xl);
+  color: rgba(0, 0, 0, 0.58);
+}
+.seminar-conducting-at-container {
+  margin: 0;
+  position: absolute;
+  top: 938px;
+  left: 106px;
+  font-weight: 700;
+  font-family: inherit;
+  white-space: pre-wrap;
+  text-align: left;
+  display: inline-block;
+  width: 334px;
+  height: 179px;
+  font-size: inherit;
+  color: var(--color-black);
+}
+.papers-cancellion {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+}
+.papers-cancellion-due-container {
+  margin: 0;
+  position: absolute;
+  top: 938px;
+  left: 592px;
+  font-weight: 700;
+  font-family: inherit;
+  white-space: pre-wrap;
+  text-align: left;
+  display: inline-block;
+  width: 321px;
+  height: 179px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-100);
+}
+.fall-semester-admission {
+  margin: 0;
+  color: var(--color-black);
+}
+.fall-semester-admission-container {
+  margin: 0;
+  position: absolute;
+  top: 935px;
+  left: 1037px;
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  font-family: inherit;
+  text-align: left;
+  display: inline-block;
+  width: 306px;
+  height: 182px;
+  color: var(--color-gray-200);
+}
+.desktop-1-child3 {
+  position: absolute;
+  top: 1218px;
+  left: 436px;
+  background-color: #c90a0a;
+  width: 567px;
+  height: 99px;
+}
+.desktop-1,
+.more-events {
+  font-family: var(--font-akshar);
+}
+.more-events {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1234px;
+  left: calc(50% - 256px);
+  font-size: var(--font-size-45xl);
+  font-weight: 700;
+  color: var(--color-black);
+  white-space: pre-wrap;
+  text-align: left;
+  display: inline-block;
+  width: 511px;
+  height: 68px;
+}
+.desktop-1 {
+  position: relative;
+  background-color: #cde5fc;
+  width: 100%;
+  height: 1401px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+}
+/* New body tags for containers and images */

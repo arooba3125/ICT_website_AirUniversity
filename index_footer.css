@@ -1,0 +1,357 @@
+.desktop-2-child,
+.image-1-icon {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.image-1-icon {
+  top: 0;
+  height: 414px;
+  object-fit: cover;
+}
+.desktop-2-child {
+  top: 877px;
+  background-color: #8c2222;
+  height: 147px;
+}
+.education,
+.schools {
+  position: absolute;
+  display: inline-block;
+  width: 94px;
+}
+.schools {
+  top: 477px;
+  left: 89px;
+  height: 35px;
+}
+.education {
+  top: 722px;
+}
+.education,
+.english,
+.law {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  left: 89px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  height: 35px;
+}
+.law {
+  position: absolute;
+  top: 687px;
+  display: inline-block;
+  width: 94px;
+}
+.english {
+  top: 652px;
+}
+.engineering,
+.english,
+.psycology {
+  position: absolute;
+  display: inline-block;
+  width: 94px;
+}
+.engineering {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 617px;
+  left: 89px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  height: 35px;
+}
+.psycology {
+  top: 582px;
+}
+.computer-science,
+.it,
+.psycology {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  left: 89px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  height: 35px;
+}
+.it {
+  position: absolute;
+  top: 555px;
+  display: inline-block;
+  width: 94px;
+}
+.computer-science {
+  top: 512px;
+  width: 134px;
+}
+.campus,
+.computer-science,
+.quick-links {
+  position: absolute;
+  display: inline-block;
+}
+.quick-links {
+  top: 479px;
+  left: 262px;
+  width: 144px;
+  height: 35px;
+}
+.campus {
+  top: 611px;
+}
+.admissions,
+.campus,
+.events {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  left: 262px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  width: 144px;
+  height: 35px;
+}
+.events {
+  position: absolute;
+  top: 580px;
+  display: inline-block;
+}
+.admissions {
+  top: 545px;
+}
+.admissions,
+.admissions1,
+.home,
+.resources {
+  position: absolute;
+  display: inline-block;
+}
+.home {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 514px;
+  left: 262px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  width: 144px;
+  height: 35px;
+}
+.admissions1,
+.resources {
+  top: 477px;
+  left: 461px;
+  width: 181px;
+  height: 33px;
+}
+.admissions1 {
+  top: 475px;
+  left: 662px;
+  width: 176px;
+  height: 35px;
+}
+.masters {
+  border: 0;
+  position: absolute;
+  top: 573px;
+}
+.graduate,
+.masters,
+.undergraduate {
+  cursor: pointer;
+  padding: 0;
+  background-color: transparent;
+  left: 662px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 176px;
+  height: 35px;
+}
+.graduate {
+  border: 0;
+  position: absolute;
+  top: 538px;
+}
+.undergraduate {
+  top: 507px;
+}
+.image-2,
+.image-3,
+.undergraduate {
+  border: 0;
+  position: absolute;
+}
+.image-2 {
+  cursor: pointer;
+  padding: 0;
+  background-color: transparent;
+  top: 451px;
+  left: 955px;
+  width: 38px;
+  height: 40px;
+  background-image: url(./public/image-2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.image-3 {
+  left: 1009px;
+  width: 44px;
+  height: 38px;
+  background-image: url(./public/image-3@3x.png);
+}
+.image-3,
+.image-4,
+.image-5 {
+  cursor: pointer;
+  padding: 0;
+  background-color: transparent;
+  top: 452px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.image-4 {
+  border: 0;
+  position: absolute;
+  left: 1073px;
+  width: 44px;
+  height: 38px;
+  background-image: url(./public/image-4@3x.png);
+}
+.image-5 {
+  left: 1137px;
+  width: 46px;
+  height: 39px;
+  background-image: url(./public/image-5@3x.png);
+}
+.desktop-2-item,
+.image-5,
+.image-6 {
+  border: 0;
+  position: absolute;
+}
+.image-6 {
+  cursor: pointer;
+  padding: 0;
+  background-color: transparent;
+  top: 450px;
+  left: 1199px;
+  width: 54px;
+  height: 40px;
+  background-image: url(./public/image-6@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.desktop-2-item {
+  outline: 0;
+  background-color: #d9d9d9;
+  top: 597px;
+  left: 949px;
+  width: 452px;
+  height: 229px;
+}
+.give-your-suggestions {
+  position: absolute;
+  top: 557px;
+  left: 957px;
+  font-size: 32px;
+  font-weight: 800;
+  display: inline-block;
+  width: 436px;
+  height: 56px;
+}
+.community-engagement2 {
+  text-decoration: underline;
+}
+.community-engagement1 {
+  color: inherit;
+}
+.community-engagement {
+  margin-bottom: 0;
+}
+.community-engagement-directory {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 27px;
+}
+.community-engagement-directory-container {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 507px;
+  left: 435px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 158px;
+  height: 28px;
+}
+.span {
+  font-weight: 800;
+  font-family: var(--font-inter);
+}
+.air {
+  margin: 0;
+}
+.air-university,
+.all-rights-reserved {
+  position: absolute;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  display: inline-block;
+}
+.air-university {
+  top: 898px;
+  left: 89px;
+  width: 275px;
+  height: 124px;
+  font-family: var(--font-irish-grover);
+}
+.all-rights-reserved {
+  top: 925px;
+  left: 500px;
+  font-weight: 800;
+  width: 553px;
+  height: 86px;
+}
+.desktop-2 {
+  position: relative;
+  background-color: #cde5fc;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

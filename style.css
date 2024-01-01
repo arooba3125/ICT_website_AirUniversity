@@ -1,0 +1,61 @@
+/* Add your custom styles here */
+body {
+    padding-top: 56px; /* Adjust based on your navbar height */
+  }
+  
+  .campus_title,.admission_title {
+    font-size: 32px;
+    font-weight: 800;
+    margin-top: 20px; /* Adjust as needed */
+  }
+  
+  .campus_subheading,.admission_subheading {
+    font-size: 18px;
+    margin-top: 10px; /* Adjust as needed */
+  }
+  
+  .cover {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 20px; /* Adjust as needed */
+  }
+  
+  .box1,
+  .box2,
+  .box3 {
+    width: 300px;
+    text-align: center;
+    margin: 20px; /* Adjust as needed */
+  }
+  
+  .box1 img,
+  .box2 img,
+  .box3 img {
+    width: 100%;
+    height: auto;
+  }
+  
+  @media (max-width: 767px) {
+    .cover {
+      flex-direction: column;
+    }
+  }
+  .btn-danger {
+    color: #fff;
+    background-color: #dc3545; 
+    border-color: #dc3545;
+  }
+  
+  .btn-danger:hover {
+    background-color: #c82333; /
+    border-color: #bd2130;
+  }
+  .section1,
+.section2 {
+  font-size: 16px; 
+}
+.custom-image {
+    width: 800px; /* Set your desired width */
+  }
